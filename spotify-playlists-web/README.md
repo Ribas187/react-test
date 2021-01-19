@@ -7,9 +7,10 @@
 
 - To use the Spotify API, please paste your access token into REACT_APP_SPOTIFY_TOKEN at the .env file
 
-#### Cloning the project and inntalling its dependencies
+#### Cloning the project and installing its dependencies
 ```sh
 git clone https://github.com/Ribas187/react-test.git
+cd react-test
 cd spotify-playlists-web
 yarn
 ```
